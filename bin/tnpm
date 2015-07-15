@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+console.log('This is a fake package on official npm.');
+console.log('Perhaps you installed the wrong one.');
+process.exit(0);
