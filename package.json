@@ -1,6 +1,6 @@
 {
   "name": "tnpm",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "YOU SHOULD NOT USE THIS PACKAGE",
   "main": "index.js",
   "scripts": {

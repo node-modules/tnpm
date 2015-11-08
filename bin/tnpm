@@ -2,5 +2,7 @@
 
 console.log('This is a fake package on official npm.');
 console.log('Perhaps you installed the wrong one.');
-console.log('Please open http://t.cn/Rysxjww and use the right way to install tnpm');
+console.log('Please visit urls below and use the right way to install tnpm');
+console.log('A1ib4b4: http://t.cn/Rysxjww')
+console.log('T3nC3nt: http://tnpm.oa.com')
 process.exit(0);
