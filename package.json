@@ -4,11 +4,11 @@
   "description": "YOU SHOULD NOT USE THIS PACKAGE",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "preinstall": "./bin/tnpm"
   },
-  "author": "alsotang <alsotang@gmail.com>",
-  "license": "MIT",
   "bin": {
     "tnpm": "./bin/tnpm"
-  }
+  },
+  "author": "alsotang <alsotang@gmail.com>",
+  "license": "MIT"
 }
