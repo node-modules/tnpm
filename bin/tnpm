@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-console.log('This is a fake package on official npm.');
-console.log('Perhaps you installed the wrong one.');
-console.log('Please visit urls below and use the right way to install tnpm');
-console.log('A1ib4b4: http://t.cn/Rysxjww')
-console.log('T3nC3nt: http://tnpm.oa.com')
+console.log('\033[31mThis is a fake package on official npm.\033[m');
+console.log('\033[31mPerhaps you installed the wrong one.\033[m');
+console.log('\033[31mPlease visit urls below and use the right way to install tnpm\033[m');
+console.log('\033[31mA1ib4b4: http://t.cn/Rysxjww\033[m');
+console.log('\033[31mT3nC3nt: http://tnpm.oa.com\033[m');
 process.exit(0);
