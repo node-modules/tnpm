@@ -3,6 +3,6 @@
 console.log('\033[31mThis tnpm is a package on the official npm.\033[m');
 console.log('\033[31mPerhaps you installed the wrong one.\033[m');
 console.log('\033[31mPlease visit urls below and use the right way to install tnpm\033[m');
-console.log('\033[31mAlibaba: http://t.cn/Rysxjww\033[m');
-console.log('\033[31mTencent: http://km.oa.com/articles/show/260990\033[m');
+console.log('\033[31mAlibaba: http://web.npm.alibaba-inc.com/\033[m');
+console.log('\033[31mTencent: http://tnpm.oa.com/\033[m');
 process.exit(0);
