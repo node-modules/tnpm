@@ -2,7 +2,12 @@
 
 console.log('\033[31mThis tnpm is a package on the official npm registry.\033[m');
 console.log('\033[31mPerhaps you installed the wrong one.\033[m');
-console.log('\033[31mPlease visit urls below and use the right way to install tnpm\n\033[m');
-console.log('\033[31mAlibaba: http://web.npm.alibaba-inc.com/\033[m');
-console.log('\033[31mTencent: https://mirrors.tencent.com/#/private/npm\033[m');
+console.log('\033[31mPlease visit urls below and use the right way to install tnpm\033[m');
+console.log('\033[31m  - Alibaba: https://yuque.antfin.com/chair/tnpm/how-to-install#YKwYB\033[m');
+console.log('\033[31m  - Tencent: https://mirrors.tencent.com/#/private/npm\033[m');
+console.log('\033[31m\n---\n\033[m');
+console.log('\033[31m错误：你不应该安装该 tnpm 命令行包，它只是一个占位包，具体原因请在企业内部访问对应的网址：\033[m');
+console.log('\033[31m  - 阿里：https://yuque.antfin.com/chair/tnpm/how-to-install#YKwYB\033[m');
+console.log('\033[31m  - 腾讯：https://mirrors.tencent.com/#/private/npm\033[m');
+
 process.exit(0);
